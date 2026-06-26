@@ -15,19 +15,25 @@ I enjoy building practical, deployed projects that include authentication, prote
 
 ### Real-Time Chess Room
 
-A full-stack real-time multiplayer chess application where authenticated users can create or join private rooms and play legal chess games online.
+A deployed full-stack real-time multiplayer chess application where authenticated users can create or join private rooms, play legal chess games online, request rematches, and start new games after completion.
 
-**Tech Stack:** React, TypeScript, Node.js, Express.js, Socket.IO, PostgreSQL, JWT, Chess.js  
-**Live Demo:** https://chess-app-rho-beryl.vercel.app/  
-**Repository:** https://github.com/CHOUBEY-VARUN/chess-app
+Tech Stack: React, TypeScript, Node.js, Express.js, Socket.IO, PostgreSQL, JWT, Chess.js
+
+Live Demo: https://chess-app-rho-beryl.vercel.app/
+Repository: https://github.com/CHOUBEY-VARUN/chess-app
 
 Key features:
-- Private chess rooms with room codes
-- Real-time gameplay using Socket.IO
-- Server-authoritative move validation
-- Player color assignment and turn enforcement
-- JWT authentication and protected backend routes
-- Deployed using Vercel, Render, and Neon
+
+* Private room creation, join-by-code, and quick play matchmaking
+* Real-time board synchronization using Socket.IO
+* Server-authoritative move validation with chess.js
+* Player color assignment, turn enforcement, and protected room access
+* JWT authentication for REST APIs and Socket.IO connections
+* Post-game rematch flow with flipped colors
+* New-game flow after completed matches
+* PostgreSQL persistence for users, rooms, game sessions, FEN state, and results
+* GitHub Actions CI, CodeQL security scanning, Dependency Review, and Dependabot
+* Deployed using Vercel, Render, and Neon
 
 ---
 
