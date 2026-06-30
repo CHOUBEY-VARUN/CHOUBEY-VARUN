@@ -13,6 +13,8 @@ I enjoy building practical, deployed projects that include authentication, prote
 
 ## Featured Projects
 
+https://github.com/user-attachments/assets/862109db-677d-480b-9104-699f6e081934
+
 ### Real-Time Chess Room
 
 A deployed full-stack real-time multiplayer chess application where authenticated users can create or join private rooms, play legal chess games online, request rematches, and start new games after completion.
