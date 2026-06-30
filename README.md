@@ -13,7 +13,7 @@ I enjoy building practical, deployed projects that include authentication, prote
 
 ## Featured Projects
 
-https://github.com/user-attachments/assets/862109db-677d-480b-9104-699f6e081934
+https://github.com/user-attachments/assets/c32c04de-1973-4f30-87c5-a75e85151352
 
 ### Real-Time Chess Room
 
