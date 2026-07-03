@@ -21,8 +21,8 @@ A deployed full-stack real-time multiplayer chess application where authenticate
 
 Tech Stack: React, TypeScript, Node.js, Express.js, Socket.IO, PostgreSQL, JWT, Chess.js
 
-Live Demo: https://chess-app-rho-beryl.vercel.app/
-Repository: https://github.com/CHOUBEY-VARUN/chess-app
+**Live Demo:** https://chess-app-rho-beryl.vercel.app/
+**Repository:** https://github.com/CHOUBEY-VARUN/chess-app
 
 Key features:
 
