@@ -64,11 +64,12 @@ Key features:
 **Tools:** Git, GitHub, Postman, Vercel, Render, VS Code  
 **Core CS:** Data Structures and Algorithms, OOP, DBMS, Operating Systems
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHOUBEY-VARUN&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&theme=transparent&cache_seconds=86400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHOUBEY-VARUN&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOUBEY-VARUN&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CHOUBEY-VARUN&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHOUBEY-VARUN&theme=transparent)
 
 ## Connect with me
 
