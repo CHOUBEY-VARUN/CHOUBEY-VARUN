@@ -66,9 +66,9 @@ Key features:
 
 ## GitHub Stats
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHOUBEY-VARUN&show_icons=true&hide_title=true&hide_border=true&hide_rank=true)
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHOUBEY-VARUN&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&theme=transparent&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOUBEY-VARUN&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOUBEY-VARUN&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400)
 
 ## Connect with me
 
