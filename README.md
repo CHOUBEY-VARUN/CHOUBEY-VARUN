@@ -69,6 +69,7 @@ Key features:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHOUBEY-VARUN&theme=transparent)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CHOUBEY-VARUN&theme=transparent)
+![My PR Stats](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=CHOUBEY-VARUN)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHOUBEY-VARUN&theme=transparent)
 
 ## Connect with me
