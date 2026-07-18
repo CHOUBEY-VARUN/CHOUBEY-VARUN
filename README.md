@@ -7,7 +7,7 @@ I enjoy building practical, deployed projects that include authentication, prote
 ## What I'm working on
 
 - Building production-ready full-stack projects
-- Improving my React, TypeScript, Node.js, and PostgreSQL skills
+- Improving my React, TypeScript, Node.js, and PostgreSQL.
 - Practicing Data Structures and Algorithms
 - Looking for entry-level Software Developer, Frontend Developer, and Full Stack Developer roles
 
